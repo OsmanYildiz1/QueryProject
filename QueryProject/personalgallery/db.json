@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": "3",
+      "name": "Osman Yildiz"
+    },
+    {
+      "name": "Joanne Harris",
+      "id": "bd7b"
+    }
+  ],
+  "albums": [
+    {
+      "userId": 3,
+      "title": "Eskişehir",
+      "id": 15
+    },
+    {
+      "userId": 3,
+      "title": "Gorgeous Steel Mouse",
+      "id": 16
+    },
+    {
+      "userId": 3,
+      "title": "dsaasfssd",
+      "id": 17
+    },
+    {
+      "id": "12e2",
+      "userId": "3",
+      "title": "Handcrafted Fresh Car"
+    },
+    {
+      "id": "4926",
+      "userId": "3",
+      "title": "Practical Steel Gloves"
+    },
+    {
+      "id": "a648",
+      "userId": "3",
+      "title": "Modern Granite Salad"
+    },
+    {
+      "id": "a32b",
+      "userId": "bd7b",
+      "title": "Electronic Fresh Chicken"
+    },
+    {
+      "id": "e234",
+      "userId": "bd7b",
+      "title": "Bespoke Metal Pants"
+    },
+    {
+      "id": "4cb4",
+      "userId": "bd7b",
+      "title": "Sleek Cotton Tuna"
+    }
+  ],
+  "photos": [
+    {
+      "id": "5fae",
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6836451389997056"
+    },
+    {
+      "id": "e3c8",
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=876927183224832"
+    },
+    {
+      "id": "bc37",
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4663069030481920"
+    },
+    {
+      "id": "e095",
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6589241855311872"
+    }
+  ]
+}
